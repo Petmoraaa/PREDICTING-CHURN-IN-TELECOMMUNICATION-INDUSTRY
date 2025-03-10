@@ -15,8 +15,6 @@ Companies lose millions due to customer churn. Understanding why customers leave
 2.How accurately can we predict churn using available data?
 3.Which classification model performs best for this problem?
 
----
-
  **Dataset**
 1.Source: [Kaggle - Churn in Telecoms Dataset](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
 2.File used: `bigml_59c28831336c6604c800002a.csv`
