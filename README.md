@@ -26,8 +26,6 @@ Companies lose millions due to customer churn. Understanding why customers leave
   - `voice_mail_plan`: Whether the customer has a voicemail plan (Yes/No).
   - Target Variable: `churn` (1 = churned, 0 = stayed)
 
----
-
 **Methodology**
 1. **Data Preprocessing**
    - No missing values.
