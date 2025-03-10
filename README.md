@@ -66,6 +66,8 @@ Companies lose millions due to customer churn. Understanding why customers leave
 This project successfully built and compared machine learning models to predict customer churn. The findings provide actionable insights for businesses to reduce churn through better customer engagement strategies.
 
 Project by: Petronilla Nyandwaro
+
 Dataset Source: Kaggle
+
 Tools Used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Google Colab
 
