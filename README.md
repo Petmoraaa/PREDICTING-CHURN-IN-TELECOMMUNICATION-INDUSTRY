@@ -59,8 +59,11 @@ Companies lose millions due to customer churn. Understanding why customers leave
 **Results & Insights**
 
 1.Customers with higher total day minutes are more likely to churn.
+
 2.More customer service calls correlate with higher churn.
+
 3.The Random Forest model achieved the best accuracy.
+
 4.Churn prediction can be improved with feature engineering and balanced datasets.
 
 **Conclusion**
